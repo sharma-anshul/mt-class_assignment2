@@ -1,3 +1,7 @@
+# Implementation of a Phrase based decoder
+
+# Anshul Sharma (ansharma)
+
 #!/usr/bin/env python
 import optparse
 import sys
